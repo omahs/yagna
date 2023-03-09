@@ -5,6 +5,7 @@ on:
     branches:
       - goth-new-version
 
+
 jobs:
   build:
     name: Build binaries (aarch64)
